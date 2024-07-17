@@ -1,5 +1,5 @@
 import streamlit as st
-import random
+# import random
 import time
 import requests
 import json
